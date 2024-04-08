@@ -3,6 +3,9 @@
 ### Single player AI based game of Chess using minimax and alpha-beta pruning
 
 ---------------------
+
+[![AIChess Game Screenshot](http://img.youtube.com/vi/B0Nvw8D6xk8/0.jpg)](https://www.youtube.com/watch?v=B0Nvw8D6xk8 "AI Chess Project - Minmax with Alpha-Beta Pruning")
+
 Introduction
 This mini project is an GUI based AI powered single player game of chess written in python using pygame(cross-platform set of python modules designed for writing video games/ https://www.pygame.org/ ). The basic search engine comprises of alpha-beta pruning. This is to decrease the number of nodes generate and evaluated by minimax algorithm. The depth of search ahead steps is set to 3 under board configuration in board.py.
 Initial planning flowchart of how the game should work.
